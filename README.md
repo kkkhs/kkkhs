@@ -3,11 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=hey%20bro&fontSize=90&fontAlign=50&fontAlignY=30&desc=I’m%20kkkhs&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<!-- 打字机效果的动图 https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-</p>
-
 <p align="center">
 <!-- GitHub 数据预览 https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kkkhs&theme=transparent&show_icons=true&hide_border=true" />
@@ -22,10 +17,13 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkhs&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
+
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <!-- 语言图标 https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,md,matlab&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css&theme=light" />
 </p>
 
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- 跳转 https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/kkkhs"><img src="https://img.shields.io/badge/GitHub-kkkhs-blue?logo=github" /></a>
@@ -33,6 +31,18 @@
 <img src="https://img.shields.io/badge/QQ-2964745405-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=kkkhs&abbreviated=true&color=yellow" />
+</p>
+
+
+<h2 align="center">我的小项目</h2>
+<p align="center">
+  <a href="http://117.72.72.34:3001/"><img src="https://img.shields.io/badge/vue3-仿饿了么-blueviolet" alt="仿饿了么" /></a>
+  <a href="http://117.72.72.34:3002/"><img src="https://img.shields.io/badge/react-仿网易云-blue.svg" alt="仿网易云" /></a>
+  <a href="http://117.72.72.34:3003/"><img src="https://img.shields.io/badge/vue3-仿网易云-critical" alt="仿网易云" /></a>
+  <a href="https://kkkhs.github.io/"><img src="https://img.shields.io/badge/react-仿Jira" alt="仿Jira" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/待定-待定-yellow" alt="#" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/待定-待定-black.svg" alt="#" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/待定-待定-blue" alt="#" /></a>
 </p>
 
 <!-- 页面底部 -->
