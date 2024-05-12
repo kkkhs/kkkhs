@@ -39,7 +39,7 @@
   <a href="http://117.72.72.34:3001/"><img src="https://img.shields.io/badge/vue3-仿饿了么-blueviolet" alt="仿饿了么" /></a>
   <a href="http://117.72.72.34:3002/"><img src="https://img.shields.io/badge/react-仿网易云-blue.svg" alt="仿网易云" /></a>
   <a href="http://117.72.72.34:3003/"><img src="https://img.shields.io/badge/vue3-仿网易云-critical" alt="仿网易云" /></a>
-  <a href="https://kkkhs.github.io/"><img src="https://img.shields.io/badge/react-仿Jira" alt="仿Jira" /></a>
+  <a href="https://kkkhs.github.io/"><img src="https://img.shields.io/badge/react-仿Jira-ff69b4" alt="仿Jira" /></a>
   <a href="#"><img src="https://img.shields.io/badge/待定-待定-yellow" alt="#" /></a>
   <a href="#"><img src="https://img.shields.io/badge/待定-待定-black.svg" alt="#" /></a>
   <a href="#"><img src="https://img.shields.io/badge/待定-待定-blue" alt="#" /></a>
