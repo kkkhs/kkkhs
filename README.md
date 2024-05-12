@@ -3,7 +3,7 @@
 -  Hi, I’m kkkhs
 - 👀 I’m interested in TypeScript, React, Vue
 - 🌱 I’m currently learning how to type beautiful code
-- 📫 How to reach me  email: 2964745405@qq,com
+- 📫 How to reach me  email: 2964745405@qq.com
 - 📝 [Blog](https://blog.csdn.net/m0_74989367?spm=1000.2115.3001.5343)
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
