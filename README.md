@@ -1,6 +1,6 @@
 <!-- 页面顶部和底部的动图 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20Bro&fontSize=90&fontAlign=50&fontAlignY=30&desc=I’m%20Khs2024&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=hey%20bro&fontSize=90&fontAlign=50&fontAlignY=30&desc=I’m%20kkkhs&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- 打字机效果的动图 https://github.com/DenverCoder1/readme-typing-svg -->
