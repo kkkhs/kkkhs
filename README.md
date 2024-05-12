@@ -1,6 +1,17 @@
-<!-- 页面顶部和底部的动图 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=hey%20bro&fontSize=90&fontAlign=50&fontAlignY=30&desc=I’m%20kkkhs&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<!-- GitHub 数据预览 https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kkkhs&theme=transparent&show_icons=true" />
+<!-- 连续贡献数据记录 https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=kkkhs&theme=transparent&date_format=%5BY.%5Dn.j" />
+<br/>
+<!-- 代码编写总时长 https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=kkkhs&theme=github-compact&hide_border=true&area=true" />
+<br/>
+<!--  项目语言比例 https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kkkhs&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkhs&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
 </p>
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
@@ -30,24 +41,4 @@
   <a href="#"><img src="https://img.shields.io/badge/待定-待定-black.svg" alt="#" /></a>
   <a href="#"><img src="https://img.shields.io/badge/待定-待定-blue" alt="#" /></a>
 </p>
-
-<p align="center">
-<!-- GitHub 数据预览 https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kkkhs&theme=transparent&show_icons=true&hide_border=true" />
-<!-- 连续贡献数据记录 https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=kkkhs&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
-<!-- 代码编写总时长 https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=kkkhs&theme=github-compact&hide_border=true&area=true" />
-<br/>
-<!--  项目语言比例 https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kkkhs&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkhs&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-</p>
-
-<!-- 页面底部 -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
