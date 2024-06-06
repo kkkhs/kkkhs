@@ -36,12 +36,6 @@
 <br/>
 
 <p align="center">
-  <!-- 连续贡献数据记录 https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <img align="center" width="400" src="https://streak-stats.demolab.com?user=kkkhs&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-  
-  <!-- GitHub 数据预览 https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kkkhs&theme=transparent&show_icons=true" />
-
   <br/>
   <!--  代码编写总时长 https://github.com/anuraghazra/github-readme-stats --> 
   <!--START_SECTION:waka-->
@@ -129,6 +123,12 @@ Jupyter Notebook         1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 06/06/2024 11:54:40 UTC
 <!--END_SECTION:waka-->
+ <!-- 连续贡献数据记录 https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <img align="center" width="400" src="https://streak-stats.demolab.com?user=kkkhs&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+  
+  <!-- GitHub 数据预览 https://github.com/anuraghazra/github-readme-stats -->
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kkkhs&theme=transparent&show_icons=true" />
+
   <!-- 项目语言比例 https://github.com/anuraghazra/github-readme-stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkhs&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
   <br/>
