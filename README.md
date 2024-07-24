@@ -39,15 +39,15 @@
   <br/>
   <!--  代码编写总时长 https://github.com/anuraghazra/github-readme-stats --> 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2053%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 62.8 kB Used in GitHub's Storage 
+> 📦 62.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,45 +55,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.05 % 
-🌆 Daytime                29 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.33 % 
-🌃 Evening                50 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.47 % 
-🌙 Night                  1 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.15 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   4 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.60 % 
-Tuesday                  1 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.15 % 
-Wednesday                14 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.09 % 
-Thursday                 9 commits           ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.34 % 
-Friday                   10 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.49 % 
-Saturday                 21 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.14 % 
-Sunday                   28 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -111,7 +72,7 @@ Jupyter Notebook         1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkkhs/kkkhs/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 18:37:32 UTC
+ Last Updated on 24/07/2024 18:40:56 UTC
 <!--END_SECTION:waka-->
  <!-- 连续贡献数据记录 https://github.com/DenverCoder1/github-readme-streak-stats -->
   <img align="center" width="400" src="https://streak-stats.demolab.com?user=kkkhs&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
