@@ -43,13 +43,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.30%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 149.8 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +113,7 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkkhs/kkkhs/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:50:36 UTC
+ Last Updated on 01/01/2026 18:51:21 UTC
 <!--END_SECTION:waka-->
  <!-- 连续贡献数据记录 https://github.com/DenverCoder1/github-readme-streak-stats -->
   <img align="center" width="400" src="https://streak-stats.demolab.com?user=kkkhs&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
